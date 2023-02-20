@@ -6,6 +6,7 @@ A Jupyter notebook that contains the following:
 Analysis of the ETF data that a SQL database stores
 
 Professionally styled and formatted interactive visualizations
+<video src='https://www.youtube.com/shorts/20asy4M5rj0' width=180/>
 
 
 ##  Background 
